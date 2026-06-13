@@ -4,9 +4,7 @@ This repository contains all projects, assignments, and learning activities comp
 
 ## Repository Structure
 
-- Week1-DataScience
-- Week2-Project
-- Week3-Project
+- Week1-DataScience All Tasks- Data understanding, Data cleaning, EDA, Data Visualization
 - Certificates
 - Resume
 
